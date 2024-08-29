@@ -1,6 +1,7 @@
 # Marathon
 
 ### Introduction
+The objective of this project is to analyse ultramarathon running datasets. 
 
 ### Data Source
 
