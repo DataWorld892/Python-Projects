@@ -2,7 +2,7 @@
 
 
 ### Introduction
-
+In this project the objective of this research is to analyze Netflix user proportion of gender,their age, country, streaming device and revenue etc. Based on the data analysis, we have more insight on users’ behaviors and preferences.
 
 ### Data Source
 
