@@ -1,7 +1,7 @@
 # Marathon
 
 ### Introduction
-The objective of this project is to analyse ultramarathon running datasets. 
+The goal of this project is to analyze ultramarathon running datasets by uncovering participant demographics, race performance, and geographic distributions.
 
 ### Data Source
 
