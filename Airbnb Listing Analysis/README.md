@@ -1,13 +1,16 @@
 # Airbnb Listing Analysis
 
+
 ### Introduction
+
 In this project I analyze an Airbnb dataset, a platform that allows people to rent their homes to travelers, focusing on the factors influencing property prices and whether the regulations adopted in 2015 have had an impact on listings in the Paris market
 
 
-### The Objectives:
-1. Explore and profile the data to correct any quality issues
-2. Prepare and reformat the data for visualization
-3. Visualize the data and identify key insights and recommendations
+### The Objectives
+
+- Explore and profile the data to correct any quality issues
+- Prepare and reformat the data for visualization
+- Visualize the data and identify key insights and recommendations
 
 
 ### Data Source
