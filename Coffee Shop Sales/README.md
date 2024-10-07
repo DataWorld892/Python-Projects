@@ -7,4 +7,4 @@ In this Project I will look at coffee shop transaction data so I would be able t
 
 Link Dataset: https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data
 
-Link Project Video: https://www.youtube.com/watch?v=uoZouXo3nGQ
+
