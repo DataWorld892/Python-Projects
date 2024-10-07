@@ -8,4 +8,3 @@ In this project the objective of this research is to analyze Netflix user propor
 
 Link Dataset: https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset
 
-Link Project Video: https://www.youtube.com/watch?v=XdQpSxEbi8s
